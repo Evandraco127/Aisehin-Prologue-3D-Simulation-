@@ -56,7 +56,7 @@ Each layer has a clear responsibility and avoids cross-coupling.
 ---
 
 ## Project Structure
-
+```
 2026 Python 3rd Person Controller System/
 │
 ├── AI_Opponent_Script/
@@ -77,6 +77,7 @@ Each layer has a clear responsibility and avoids cross-coupling.
 │ ├── MCAnimationController.py
 │ └── moveJoyM.py
 ---
+```
 
 ## Core Systems
 
