@@ -112,20 +112,20 @@ This prevents animation lockups and ensures clean state transitions.
 ### Combat Samples
 
 #### Jab
-![Jab](Media/LLAJab0_22.gif)
+![Jab](LLAJab0_22.gif)
 
 #### Hook
-![Hook](Media/LLAHooks0_48.gif)
+![Hook](LLAHooks0_48.gif)
 
 ---
 
 ### 4. Locomotion Samples
 
 #### Run
-<img src="Media/LLARun66_95.gif" width="450">
+<img src="LLARun66_95.gif" width="450">
 
 #### Walk
-<img src="Media/LLAWalk4_35.gif" width="450">
+<img src="LLAWalk4_35.gif" width="450">
 
 ---
 
